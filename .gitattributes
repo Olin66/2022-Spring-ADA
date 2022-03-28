@@ -1,2 +1,6 @@
+*.out
+settings.json
+.DS_Store
+
 *.c linguist-language=c
-*.java linguist-language=java
+*.html linguist-language=md
